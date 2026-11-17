@@ -11,6 +11,26 @@
   <a href="https://n33to.github.io">Hub de contribuições</a>
 </p>
 
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=php,py,js,html,css,mysql,supabase,git&theme=dark&perline=8">
+    <img src="https://skillicons.dev/icons?i=php,py,js,html,css,mysql,supabase,git&theme=light&perline=8" alt="PHP, Python, JavaScript, HTML, CSS, MySQL, Supabase, Git">
+  </picture>
+  <br>
+  <sub>também: MariaDB · SQLite · Excel · VBA</sub>
+</p>
+
+## `~/metricas`
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/metricas-dark.svg">
+    <img src="assets/metricas-light.svg" alt="Métricas dos 7 projetos: 157 mil linhas de código (PHP 45,9%, Python 28,3%, JavaScript 19,4%), 128 tabelas em MySQL/MariaDB, Supabase e SQLite, e 10 integrações." width="100%">
+  </picture>
+</p>
+
+<sub>Medido nos meus projetos, sem contar bibliotecas de terceiros. O código não é público; a arquitetura de cada um está nos repositórios abaixo.</sub>
+
 ## `~/projeto-principal`
 
 ### ERP de gestão · em produção
@@ -21,7 +41,7 @@ Sistema web multiusuário, construído do zero para uma empresa de construção 
 |---|---|
 | Pessoal, ponto, financeiro e documentos espalhados em planilhas e em três programas | Um site único: ponto, financeiro, documentos e obras, com permissões por perfil e auditoria |
 
-`9 módulos` &nbsp; `74 tabelas` &nbsp; `~47 mil linhas` &nbsp; `42 arquivos de teste`
+`9 módulos` &nbsp; `74 tabelas` &nbsp; `~96 mil linhas` &nbsp; `43 arquivos de teste`
 
 `PHP 8.2+` &nbsp; `MySQL` &nbsp; `JavaScript` &nbsp; `HTML` &nbsp; `CSS`
 
@@ -35,16 +55,6 @@ Sistema web multiusuário, construído do zero para uma empresa de construção 
 | [Gerador de contratos](https://github.com/N33to/gerador-contratos) | Proposta em PDF vira contrato em Word · PHP |
 | [DP Web](https://github.com/N33to/dp-documentos-web) | Dossiê de documentos por colaborador e obra · PHP, Python |
 | [Apps de mesa](https://github.com/N33to/apps-desktop-python) | Financeiro e ponto com horas extras · Python |
-
-## `~/stack`
-
-| | |
-|---|---|
-| **Back-end** | <picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=php&theme=dark"><img src="https://skillicons.dev/icons?i=php&theme=light" alt="PHP" title="PHP" width="36" height="36"></picture>&nbsp;<picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=py&theme=dark"><img src="https://skillicons.dev/icons?i=py&theme=light" alt="Python" title="Python" width="36" height="36"></picture> |
-| **Front-end** | <picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=js&theme=dark"><img src="https://skillicons.dev/icons?i=js&theme=light" alt="JavaScript" title="JavaScript" width="36" height="36"></picture>&nbsp;<picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=html&theme=dark"><img src="https://skillicons.dev/icons?i=html&theme=light" alt="HTML" title="HTML" width="36" height="36"></picture>&nbsp;<picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=css&theme=dark"><img src="https://skillicons.dev/icons?i=css&theme=light" alt="CSS" title="CSS" width="36" height="36"></picture> |
-| **Banco** | <picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=mysql&theme=dark"><img src="https://skillicons.dev/icons?i=mysql&theme=light" alt="MySQL" title="MySQL" width="36" height="36"></picture>&nbsp;<picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=supabase&theme=dark"><img src="https://skillicons.dev/icons?i=supabase&theme=light" alt="Supabase" title="Supabase" width="36" height="36"></picture>&nbsp; MariaDB |
-| **Dados** | Excel · VBA |
-| **Ferramentas** | <picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=git&theme=dark"><img src="https://skillicons.dev/icons?i=git&theme=light" alt="Git" title="Git" width="36" height="36"></picture> |
 
 ## `~/contato`
 
