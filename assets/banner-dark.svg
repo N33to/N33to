@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="250" viewBox="0 0 900 250" role="img" aria-label="Terminal: José Martins, desenvolvedor de sistemas. Foco em automação e gestão empresarial.">
+  <rect x="0.5" y="0.5" width="899" height="249" rx="10" fill="#0d1117" stroke="#30363d"/>
+  <path d="M1 11a10 10 0 0 1 10-10h878a10 10 0 0 1 10 10v29H1z" fill="#161b22"/>
+  <line x1="1" y1="40.5" x2="899" y2="40.5" stroke="#30363d"/>
+  <circle cx="26" cy="20.5" r="6" fill="#ff5f56"/>
+  <circle cx="48" cy="20.5" r="6" fill="#ffbd2e"/>
+  <circle cx="70" cy="20.5" r="6" fill="#27c93f"/>
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="17">
+    <text x="450" y="26" text-anchor="middle" fill="#8b949e" font-size="13">~/jose-martins</text>
+    <text x="32" y="86"><tspan fill="#3fb950">~ $</tspan><tspan fill="#e6edf3"> whoami</tspan></text>
+    <text x="32" y="116" font-size="24" font-weight="700" fill="#e6edf3">José Martins <tspan fill="#8b949e" font-weight="400" font-size="19">— Desenvolvedor de sistemas</tspan></text>
+    <text x="32" y="162"><tspan fill="#3fb950">~ $</tspan><tspan fill="#e6edf3"> cat foco.txt</tspan></text>
+    <text x="32" y="192" fill="#58a6ff" font-size="19">Automação  ·  Gestão empresarial  ·  Sistemas em produção</text>
+    <text x="32" y="226"><tspan fill="#3fb950">~ $</tspan><tspan fill="#3fb950"> ▍</tspan></text>
+  </g>
+</svg>
