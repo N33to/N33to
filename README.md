@@ -29,7 +29,7 @@
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/metricas-dark.svg">
-    <img src="assets/metricas-light.svg" alt="Métricas dos 7 projetos: 157 mil linhas de código (PHP 45,9%, Python 28,3%, JavaScript 19,4%), 128 tabelas em MySQL/MariaDB, Supabase e SQLite, e 10 integrações." width="100%">
+    <img src="assets/metricas-light.svg" alt="Métricas dos 7 projetos: 145 mil linhas de código (PHP 45,7%, Python 28,3%, JavaScript 19,6%), 129 tabelas em MySQL/MariaDB, Supabase e SQLite, e 10 integrações." width="100%">
   </picture>
 </p>
 
@@ -45,7 +45,7 @@ Sistema web multiusuário, construído do zero para uma empresa de construção 
 |---|---|
 | Pessoal, ponto, financeiro e documentos espalhados em planilhas e em três programas | Um site único: ponto, financeiro, documentos e obras, com permissões por perfil e auditoria |
 
-`9 módulos` &nbsp; `74 tabelas` &nbsp; `~96 mil linhas` &nbsp; `43 arquivos de teste`
+`9 módulos` &nbsp; `75 tabelas` &nbsp; `~87 mil linhas` &nbsp; `44 arquivos de teste`
 
 `PHP 8.2+` &nbsp; `MySQL` &nbsp; `JavaScript` &nbsp; `HTML` &nbsp; `CSS`
 
