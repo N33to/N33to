@@ -48,5 +48,5 @@ Sistema web multiusuário, construído do zero para uma empresa de construção 
 
 ## `~/contato`
 
-**Vamos conversar.**
+**Vamos conversar.**<br>
 [LinkedIn](https://www.linkedin.com/in/jos3martins/) &nbsp;·&nbsp; [netojosemartins61@gmail.com](mailto:netojosemartins61@gmail.com) &nbsp;·&nbsp; [GitHub](https://github.com/N33to)
