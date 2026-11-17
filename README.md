@@ -12,10 +12,14 @@
 </p>
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=php,py,js,html,css,mysql,supabase,git&theme=dark&perline=8">
-    <img src="https://skillicons.dev/icons?i=php,py,js,html,css,mysql,supabase,git&theme=light&perline=8" alt="PHP, Python, JavaScript, HTML, CSS, MySQL, Supabase, Git">
-  </picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=php&theme=dark"><img src="https://skillicons.dev/icons?i=php&theme=light" alt="PHP" title="PHP" width="52" height="52"></picture>&nbsp;&nbsp;
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=py&theme=dark"><img src="https://skillicons.dev/icons?i=py&theme=light" alt="Python" title="Python" width="52" height="52"></picture>&nbsp;&nbsp;
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=js&theme=dark"><img src="https://skillicons.dev/icons?i=js&theme=light" alt="JavaScript" title="JavaScript" width="52" height="52"></picture>&nbsp;&nbsp;
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=html&theme=dark"><img src="https://skillicons.dev/icons?i=html&theme=light" alt="HTML" title="HTML" width="52" height="52"></picture>&nbsp;&nbsp;
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=css&theme=dark"><img src="https://skillicons.dev/icons?i=css&theme=light" alt="CSS" title="CSS" width="52" height="52"></picture>&nbsp;&nbsp;
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=mysql&theme=dark"><img src="https://skillicons.dev/icons?i=mysql&theme=light" alt="MySQL" title="MySQL" width="52" height="52"></picture>&nbsp;&nbsp;
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=supabase&theme=dark"><img src="https://skillicons.dev/icons?i=supabase&theme=light" alt="Supabase" title="Supabase" width="52" height="52"></picture>&nbsp;&nbsp;
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=git&theme=dark"><img src="https://skillicons.dev/icons?i=git&theme=light" alt="Git" title="Git" width="52" height="52"></picture>
   <br>
   <sub>também: MariaDB · SQLite · Excel · VBA</sub>
 </p>
